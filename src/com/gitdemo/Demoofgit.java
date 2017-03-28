@@ -7,6 +7,8 @@ public class Demoofgit {
 		System.out.println("Example of git demo");
 		System.out.println("Example of github test1111......");
 		System.out.println("hdlkshlkdhslkdhfkldf");
+		SalesData sales=new SalesData();
+		sales.display();
 	}
 
 }
